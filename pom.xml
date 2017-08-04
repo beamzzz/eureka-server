@@ -5,11 +5,11 @@
 
 	<groupId>com.mx</groupId>
 	<artifactId>eureka-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>eureka-server</name>
-	<description>Demo project for Spring Boot</description>
+	<description>服务注册中心</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
